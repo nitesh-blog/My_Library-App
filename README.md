@@ -9,6 +9,16 @@ I have used technology:
 3. Bootstrap
 4. JavaScript
 
+for creating this web site.
+
+Given below is the snap shot for project :
+
+This is Home Page 
+![HomeComponent](https://user-images.githubusercontent.com/64421386/192113197-7189422e-fea9-4d68-8241-b1bdbc10d6c7.PNG)
+
+This is BookList page
+![BookListComponent](https://user-images.githubusercontent.com/64421386/192113220-1e244f2c-c255-403b-9444-40c11c7954c2.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:

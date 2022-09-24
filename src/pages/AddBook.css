@@ -1,0 +1,38 @@
+*{
+    margin: 3px;
+    padding: auto;
+}
+
+.font-change
+{
+    font-family: sans-serif;
+}
+
+input {
+    width: 99%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid rgb(99, 87, 87);
+}
+
+textarea{
+    width: 99%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid rgb(99, 87, 87);
+}
+
+.btn{
+    border: none;
+    border-radius: 70px;
+   height: 40px;
+   width: 100px;
+   background-color: rgb(93, 93, 235);
+   color: white;
+  
+}
+

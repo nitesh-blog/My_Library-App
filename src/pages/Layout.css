@@ -1,0 +1,49 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(93, 93, 235);
+}
+.leftside
+{
+    float: left;
+    padding: 14px 16px;
+    color: white;
+}
+
+li a
+{
+    float: right;
+    display: block;
+    color: white;
+   padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover
+{
+    color: blue;
+}
+
+
+
+
+.footer-bottom{
+    margin-top: 30px;
+    background: black;
+    width: 100vw;
+    padding: 20px 0;
+    text-align: center;
+}
+.footer-bottom p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    color: white;
+}
+.footer-bottom span{
+    text-transform: uppercase;
+    opacity: .4;
+    font-weight: 200;
+}

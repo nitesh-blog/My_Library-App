@@ -1,0 +1,23 @@
+.heading
+{
+    padding: 5px;
+    text-align: center;
+    text-decoration: underline;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.card-size
+{
+   
+    width: 16rem;
+   
+}
+
+.adj
+{
+   margin: 50px;
+}
+
+.btn-change:hover{
+    transform: scale(1.1);
+    background: #31708f;
+}

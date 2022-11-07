@@ -4,10 +4,7 @@ This folder contains web pages created using HTML , CSS and JS.
 This folder contains a My_Library-App.
 
 I have used technology:
-1. HTML 
-2. CSS 
-3. Bootstrap
-4. JavaScript
+React JS and Bootstrap
 
 for creating this web site.
 
